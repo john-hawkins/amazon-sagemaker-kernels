@@ -1,4 +1,4 @@
-# aws-sagemaker-kernels
+# amazon-sagemaker-kernels
 
 In each directory you will find a Docker file for
 building a specific Sagemaker Compatible Kernel.
@@ -8,6 +8,8 @@ building a specific Sagemaker Compatible Kernel.
 In the [r-kernel](r-kernel) example we demonstrate how to
 use the Sagemaker Studio Image Build CLI to build and register
 a customer Notebook Kernel from within Sagemaker Studio.
+
+This allows you to run R code inside a Sagemaker Studio Notebook.
 
 
 ## Bespoke Python ML Algorithm
