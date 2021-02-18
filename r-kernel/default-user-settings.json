@@ -3,7 +3,7 @@
     "KernelGatewayAppSettings": {
       "CustomImages": [
           {
-                   "ImageName": "custom-r",
+                   "ImageName": "my-custom-r-kernel",
                    "AppImageConfigName": "custom-r-image-config"
                 }
             ]
