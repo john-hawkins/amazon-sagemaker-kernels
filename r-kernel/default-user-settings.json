@@ -4,7 +4,7 @@
       "CustomImages": [
           {
                    "ImageName": "my-custom-r-kernel",
-                   "AppImageConfigName": "custom-r-image-config"
+                   "AppImageConfigName": "my-custom-r-image-config"
                 }
             ]
         }
